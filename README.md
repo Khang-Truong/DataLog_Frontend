@@ -17,7 +17,6 @@
 # How To Run It 
 - Open the project in Visual Studio Code
 - In command line, type: npm start
-- or you can use Live demo in Netlify: https://datalogwebapp.netlify.app/ 
 - Information access: businessName: befresh, userName: admin, password: secret
 
 # Contact
